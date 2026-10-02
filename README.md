@@ -1,57 +1,95 @@
-<div align="center">
-  <h1>👋 Assalomu alaykum! Men Full-Stack va Backend Dasturchiman</h1>
-  <p>Texnologiyalar va sun'iy intellektni uyg'unlashtirgan holda samarali, kengaytiriluvchan tizimlar yaratishga ixtisoslashganman.</p>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45&height=220&section=header&text=Bekzod%20|%20Full-Stack%20Engineer&fontSize=42&fontColor=00ffcc&fontAlignY=38&desc=Backend%20Architect%20&%20AI%20Integration%20Specialist&descSize=18&descColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+<!-- TYPING EFFECT SUBTITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Integrating+AI+into+Real-World+Apps;Crafting+High-Performance+Web+Experiences" alt="Typing SVG" />
+</p>
+
+---
+
+### ⚡ Men Haqimda
+* 🌱 Hozirda **Travel Marketplace** arxitekturasi va **AI Integration** yo'nalishlarida chuqur ishlayapman.
+* 💡 Maqsadim: Tez ishlovchi, xavfsiz va kelajak talablariga javob beradigan masshtablanuvchi tizimlar yaratish.
+* ⚡ Qoidam: *"Kod shunchaki ishlamasligi kerak, u mukammal arxitekturaga ega bo'lishi shart."*
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
-  <p>
-    <code>TypeScript</code> &nbsp;•&nbsp;
-    <code>JavaScript</code> &nbsp;•&nbsp;
-    <code>React</code> &nbsp;•&nbsp;
-    <code>Next.js</code> &nbsp;•&nbsp;
-    <code>Node.js</code> &nbsp;•&nbsp;
-    <code>NestJS</code> &nbsp;•&nbsp;
-    <code>GraphQL</code> &nbsp;•&nbsp;
-    <code>MongoDB</code> &nbsp;•&nbsp;
-    <code>Redis</code> &nbsp;•&nbsp;
-    <code>Python</code> &nbsp;•&nbsp;
-    <code>AI / LLM</code> &nbsp;•&nbsp;
-    <code>Docker</code> &nbsp;•&nbsp;
-    <code>Git</code>
-  </p>
-</div>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+
+  <!-- Database & Cache -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 🚀 Hozir ishlayotgan yo‘nalishlarim
+### 🏗️ Arxitektura va Muhandislik Ko'nikmalari
 
-* **Full-Stack Development** — Zamonaviy va foydalanuvchiga qulay veb-ilovalar yaratish.
-* **Backend Engineering** — Xavfsiz, tez ishlovchi va barqaror server qismini qurish.
-* **System Design** — Arxitektura va ma'lumotlar bazasini to'g'ri loyihalash.
-* **Real-time Applications** — WebSocket va boshqa texnologiyalar yordamida real vaqtda ishlaydigan tizimlar.
-* **AI Integration** — Ilg'or AI modellarini dasturlarga integratsiya qilish.
-* **Travel Marketplace Architecture** — Sayohat va bozor platformalari uchun maxsus arxitektura yechimlari.
-
----
-
-## 🛠️ Texnik Ko'nikmalarim (Tech Stack)
-
-| 💻 Languages | 🎨 Frontend | ⚙️ Backend & Architecture |
-| :--- | :--- | :--- |
-| • JavaScript<br>• TypeScript<br>• Python | • React<br>• Next.js<br>• HTML5 / CSS3<br>• Material UI | • Node.js / Express.js<br>• NestJS<br>• REST & GraphQL API<br>• WebSocket / Real-time<br>• MVC & Modular Arch.<br>• Auth & RBAC |
-
-| 🗄️ Database | 🤖 AI & Machine Learning | 🔧 Tools & DevOps |
-| :--- | :--- | :--- |
-| • MongoDB & Mongoose<br>• Redis & Caching<br>• Database Design<br>• Aggregation Pipeline ($facet) | • LLM & AI Agents<br>• Ollama<br>• Embeddings<br>• Local AI<br>• AI-powered Apps | • Git & GitHub<br>• Docker<br>• Linux<br>• VS Code / Postman<br>• npm |
-
----
-
-## ⚙️ Muhandislik Amaliyotlari & Tamoyillarim
-
-* **API & Design:** RESTful API Design, GraphQL API Design, Real-time Systems
-* **Security & Performance:** Authentication & Authorization, API Security, CORS, Rate Limiting, Error Handling, Validation
-* **Data Management:** Pagination, Aggregation, Cache Invalidation, File Upload
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-architecture-futuristic-technology-flat-icons-inmotus-design.png" width="48"/>
+      <h4><b>System & API Design</b></h4>
+      <p>RESTful & GraphQL Design, Microservices, Modular Architecture, Real-time Systems via WebSockets</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluids-systems-regular/96/00F5FF/security-checked.png" width="48"/>
+      <h4><b>Security & Performance</b></h4>
+      <p>RBAC, Auth & Authorization, Rate Limiting, CORS, Caching & Cache Invalidation strategies</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-kosonicon-outline-color-kosonicon/64/external-artificial-intelligence-technology-and-science-outline-kosonicon-outline-color-kosonicon.png" width="48"/>
+      <h4><b>AI Integration</b></h4>
+      <p>Building AI-powered applications, working with local LLMs, Ollama, Embeddings & Agents</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <h3>✨ "Kod yozish — bu shunchaki funksional emas, balki sifatli arxitektura demakdir." ✨</h3>
-</div>
+### 📊 GitHub Statistikasi & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,45,20,11,6&height=120&section=footer" width="100%" />
+</p>
