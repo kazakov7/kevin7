@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Mountain background">
-
-<br>
+<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=80" width="100%" alt="hero banner" />
 
 # 👋 Hi, I'm Kevin
 
-### Full-Stack Developer · Backend Engineer · AI Enthusiast
+### Full-Stack Developer · Backend Engineer · AI & Web Technologies
 
-**Building real-world products with clean architecture, powerful APIs and modern web technologies.**
-
-<br>
+<p>
+  <strong>Building real-world products with scalable architecture, clean APIs, and modern web experiences.</strong>
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-kazakov7-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazakov7)
 [![Profile Views](https://komarev.com/ghpvc/?username=kazakov7&style=for-the-badge&color=0ea5e9)](https://github.com/kazakov7)
@@ -21,7 +19,7 @@
 
 <div align="center">
 
-## ⚡ `CODE · BUILD · LEARN · REPEAT`
+## ⚡ CODE • BUILD • LEARN • REPEAT
 
 </div>
 
@@ -29,17 +27,17 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=700&q=80" alt="Mountain">
+<img align="right" width="340" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=900&q=80" alt="developer workspace" />
 
-I'm a **Full-Stack Developer** with a strong focus on backend engineering, scalable APIs and real-time applications.
+I’m a passionate **Full-Stack Developer** with a strong focus on backend engineering, scalable systems, and AI-powered products.
 
 - 🚀 Building production-style web applications
-- ⚙️ Focused on **NestJS, Node.js, GraphQL and WebSockets**
-- 🎨 Building interfaces with **Next.js, React and TypeScript**
-- 🗄️ Working with **MongoDB, Mongoose and Redis**
-- 🧠 Exploring **LLMs, AI Agents and intelligent applications**
+- ⚙️ Specialized in **NestJS, Node.js, GraphQL, REST APIs, and WebSockets**
+- 🎨 Creating modern interfaces with **Next.js, React, and TypeScript**
+- 🗄️ Working with **MongoDB, Mongoose, and Redis**
+- 🧠 Exploring **LLMs, embeddings, AI agents, and intelligent systems**
 - 🌍 Building a real-world **Travel Marketplace**
-- 📚 Improving **system design, algorithms and software architecture**
+- 📚 Continuously improving in **system design, algorithms, and architecture**
 
 <br clear="right"/>
 
@@ -75,7 +73,7 @@ I'm a **Full-Stack Developer** with a strong focus on backend engineering, scala
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1800&q=80" width="100%" alt="Night mountain landscape">
+<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1600&q=80" width="100%" alt="travel landscape" />
 
 </div>
 
@@ -83,39 +81,39 @@ I'm a **Full-Stack Developer** with a strong focus on backend engineering, scala
 
 ## ✈️ Travel Marketplace
 
-> **A production-oriented travel marketplace built to look and behave like a real platform — not a simple portfolio demo.**
+> A production-oriented travel platform designed to feel like a real marketplace — not a simple demo.
 
 ### Core Features
 
 | 🏨 Hotels | 🎫 Tours | 🗺️ Destinations |
 |:---:|:---:|:---:|
-| Properties & owners | Tour companies | Countries & cities |
+| Properties & owners | Tour packages & companies | Countries, cities, and locations |
 
 | 📅 Booking | 💬 Real-time Chat | ⭐ Reviews |
 |:---:|:---:|:---:|
-| Hotel & tour booking | WebSocket messaging | Ratings & comments |
+| Booking flow & reservations | WebSocket messaging | Ratings and comments |
 
 | 👥 Social | 🔐 Security | 🛠️ Admin |
 |:---:|:---:|:---:|
-| Likes, follows & activity | Auth & role-based access | Management dashboard |
+| Likes, follows, activity | Auth and role-based access | Management dashboard |
 
 ### Architecture
 
 ```text
 Next.js / React
-       │
-       ▼
-   GraphQL API
-       │
-       ▼
-     NestJS
-   ┌───┼───────────────┐
-   ▼   ▼               ▼
+        │
+        ▼
+    GraphQL API
+        │
+        ▼
+      NestJS
+    ┌───┼───────────────┐
+    ▼   ▼               ▼
 MongoDB Redis       WebSocket
-   │                   │
-   └───────┬───────────┘
-           ▼
-      Travel Platform
+    │                   │
+    └───────┬───────────┘
+            ▼
+       Travel Platform
 ```
 
 **Stack:** `NestJS` `GraphQL` `MongoDB` `Mongoose` `Next.js` `React` `TypeScript` `WebSocket` `Redis`
@@ -147,8 +145,8 @@ MongoDB Redis       WebSocket
 | 🏗️ | **Travel Marketplace** — building a real production-style system |
 | ⚙️ | **Backend Architecture** — scalable NestJS services |
 | 🔌 | **Real-time Systems** — WebSocket communication |
-| 🧠 | **AI** — LLMs, embeddings & AI agents |
-| 📚 | **Engineering** — algorithms, system design & clean architecture |
+| 🧠 | **AI** — LLMs, embeddings, and AI agents |
+| 📚 | **Engineering** — algorithms, system design, and clean architecture |
 
 </div>
 
@@ -156,7 +154,7 @@ MongoDB Redis       WebSocket
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Travel landscape">
+<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=80" width="100%" alt="travel banner" />
 
 ### 🌎 BUILD SOMETHING WORTH REMEMBERING
 
