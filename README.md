@@ -1,113 +1,128 @@
 <div align="center">
 
+<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Mountain background">
+
+<br>
+
 # 👋 Hi, I'm Kevin
 
 ### Full-Stack Developer · Backend Engineer · AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+real-world+web+applications;Backend+with+NestJS+%26+Node.js;GraphQL+%7C+WebSockets+%7C+MongoDB;Exploring+AI+Agents+%26+LLMs" alt="Typing animation" />
+**Building real-world products with clean architecture, powerful APIs and modern web technologies.**
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kazakov7-181717?style=for-the-badge&logo=github)](https://github.com/kazakov7)
-[![Profile Views](https://komarev.com/ghpvc/?username=kazakov7&style=for-the-badge&color=0e75b6)](https://github.com/kazakov7)
+[![GitHub](https://img.shields.io/badge/GitHub-kazakov7-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazakov7)
+[![Profile Views](https://komarev.com/ghpvc/?username=kazakov7&style=for-the-badge&color=0ea5e9)](https://github.com/kazakov7)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a **Full-Stack Developer** focused on building modern, scalable applications with strong backend architecture.
+## ⚡ `CODE · BUILD · LEARN · REPEAT`
 
-- 💻 Building with **NestJS, Node.js, Next.js, React & TypeScript**
-- 🧠 Exploring **AI, LLMs, embeddings and AI agents**
-- ⚙️ Working with **GraphQL, REST APIs, WebSockets & authentication**
-- 🗄️ Designing applications with **MongoDB & Mongoose**
-- 🌍 Currently building a production-style **Travel Marketplace**
-- 🧩 Interested in **system design, real-time applications and clean architecture**
-- 📚 Continuously improving my algorithms, backend engineering and software architecture skills
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+<img align="right" width="330" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=700&q=80" alt="Mountain">
+
+I'm a **Full-Stack Developer** with a strong focus on backend engineering, scalable APIs and real-time applications.
+
+- 🚀 Building production-style web applications
+- ⚙️ Focused on **NestJS, Node.js, GraphQL and WebSockets**
+- 🎨 Building interfaces with **Next.js, React and TypeScript**
+- 🗄️ Working with **MongoDB, Mongoose and Redis**
+- 🧠 Exploring **LLMs, AI Agents and intelligent applications**
+- 🌍 Building a real-world **Travel Marketplace**
+- 📚 Improving **system design, algorithms and software architecture**
+
+<br clear="right"/>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 ### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
 
-### Database & Tools
+### Database & Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,docker,git,github,linux" />
 
-### AI
+### AI & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-6B7280?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,vscode" />
+
+</div>
 
 ---
 
-## 🌍 Featured Project
+<div align="center">
 
-### ✈️ Travel Marketplace
+<img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1800&q=80" width="100%" alt="Night mountain landscape">
 
-A production-oriented travel platform designed to work like a real marketplace rather than a simple portfolio demo.
+</div>
 
-**Core system:**
+# 🌍 Featured Project
 
-- 🏨 Hotels & properties
-- 🎫 Tour packages
-- 🗺️ Destinations
-- 📅 Booking system
-- 💬 Real-time 1-to-1 & global chat
-- ❤️ Likes, follows & activity
-- ⭐ Reviews & ratings
-- 🔐 Authentication & role-based authorization
-- 👨‍💼 Hotel & tour agent management
-- 🛠️ Admin dashboard
-- 📊 Views, trending content & statistics
-- 🚀 Deployment-ready architecture
+## ✈️ Travel Marketplace
 
-**Architecture / Stack**
+> **A production-oriented travel marketplace built to look and behave like a real platform — not a simple portfolio demo.**
 
-`NestJS` · `GraphQL` · `MongoDB` · `Mongoose` · `Next.js` · `React` · `TypeScript` · `WebSocket`
+### Core Features
+
+| 🏨 Hotels | 🎫 Tours | 🗺️ Destinations |
+|:---:|:---:|:---:|
+| Properties & owners | Tour companies | Countries & cities |
+
+| 📅 Booking | 💬 Real-time Chat | ⭐ Reviews |
+|:---:|:---:|:---:|
+| Hotel & tour booking | WebSocket messaging | Ratings & comments |
+
+| 👥 Social | 🔐 Security | 🛠️ Admin |
+|:---:|:---:|:---:|
+| Likes, follows & activity | Auth & role-based access | Management dashboard |
+
+### Architecture
+
+```text
+Next.js / React
+       │
+       ▼
+   GraphQL API
+       │
+       ▼
+     NestJS
+   ┌───┼───────────────┐
+   ▼   ▼               ▼
+MongoDB Redis       WebSocket
+   │                   │
+   └───────┬───────────┘
+           ▼
+      Travel Platform
+```
+
+**Stack:** `NestJS` `GraphQL` `MongoDB` `Mongoose` `Next.js` `React` `TypeScript` `WebSocket` `Redis`
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -115,9 +130,7 @@ A production-oriented travel platform designed to work like a real marketplace r
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazakov7&layout=compact&hide_border=true&langs_count=8" />
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=kazakov7&hide_border=true" />
 
@@ -125,37 +138,41 @@ A production-oriented travel platform designed to work like a real marketplace r
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-```text
-┌─────────────────────────────────────────────────────┐
-│  🏗️  Building      →  Travel Marketplace           │
-│  ⚙️  Improving     →  Backend Architecture         │
-│  🧠  Exploring     →  AI Agents & LLM Applications │
-│  🔌  Developing    →  Real-time WebSocket Systems  │
-│  📚  Learning      →  System Design & Algorithms   │
-└─────────────────────────────────────────────────────┘
-```
+<div align="center">
 
----
+| | Focus |
+|---|---|
+| 🏗️ | **Travel Marketplace** — building a real production-style system |
+| ⚙️ | **Backend Architecture** — scalable NestJS services |
+| 🔌 | **Real-time Systems** — WebSocket communication |
+| 🧠 | **AI** — LLMs, embeddings & AI agents |
+| 📚 | **Engineering** — algorithms, system design & clean architecture |
 
-## 📌 Development Philosophy
-
-> Build real things. Understand how they work.  
-> Keep learning. Keep improving.
-
-I prefer projects that solve real problems and demonstrate **architecture, scalability, clean code and practical engineering**, not just isolated tutorials.
+</div>
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1800&q=85" width="100%" alt="Travel landscape">
+
+### 🌎 BUILD SOMETHING WORTH REMEMBERING
+
+</div>
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kazakov7-181717?style=for-the-badge&logo=github)](https://github.com/kazakov7)
 
-<!-- Add your LinkedIn when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME/)
+<!-- Add these when you want:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-26A5E4?style=for-the-badge&logo=telegram)](YOUR_TELEGRAM_URL)
 -->
 
 </div>
@@ -164,8 +181,12 @@ I prefer projects that solve real problems and demonstrate **architecture, scala
 
 <div align="center">
 
-### Thanks for visiting! 👋
+> **“Build real things. Understand how they work. Keep improving.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+<br>
+
+### Thanks for visiting 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%">
 
 </div>
