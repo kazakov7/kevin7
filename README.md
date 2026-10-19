@@ -8,7 +8,7 @@
 *Building thoughtful interfaces, reliable backend systems, and practical software products.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-kazakov7-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/kazakov7)
-[![AURORA](https://img.shields.io/badge/Live-AURORA-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://auroratravel.vercel.app/)
+[![AURORA](https://img.shields.io/badge/Live-AURORA-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://auroratravel.site/)
 [![ELIF BOOK STORE](https://img.shields.io/badge/Live-ELIF%20BOOK%20STORE-0D9488?style=flat-square&logo=googlechrome&logoColor=white)](https://elif-book.store/)
 ![Visitors](https://komarev.com/ghpvc/?username=kazakov7&style=flat-square&color=64748b)
 
